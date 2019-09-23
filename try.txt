@@ -1,0 +1,4 @@
+"Read Me"
+git clone https://github.com/vverpen/bkit.git 
+git 
+git status 
